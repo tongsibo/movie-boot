@@ -14,3 +14,8 @@ public class MovieApplicationTests {
 	}
 
 }
+
+@Test
+public void test1(){
+	
+}
